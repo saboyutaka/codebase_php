@@ -1,0 +1,12 @@
+{
+    "name": "yutaka/php",
+    "authors": [
+        {
+            "name": "Yutaka Tachibana",
+            "email": "yutaka.paradigm.shift@gmail.com"
+        }
+    ],
+    "require": {
+      "laravel/framework": "5.5.*"
+    }
+}
